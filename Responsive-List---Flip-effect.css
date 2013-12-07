@@ -21,7 +21,7 @@ time, mark, audio, video {
 
 html {
   line-height: 1; }
-
+*/
 ol, ul {
   list-style: none; }
 
@@ -45,7 +45,7 @@ a img {
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
-*/
+
 
 /**
 *
@@ -651,10 +651,10 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   -moz-animation-name: rotateInDownRight;
   -o-animation-name: rotateInDownRight;
   animation-name: rotateInDownRight; }
-/*
+/* */
 body, html {
   height: 100%; }
-*/
+
 body {
   background: #212121;
   color: #fff;
